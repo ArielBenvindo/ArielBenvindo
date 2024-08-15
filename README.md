@@ -23,4 +23,4 @@
 <br/>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Henrique-PM&layout=compact)](https://github.com/ArielBenvindo/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ArielBenvindo&layout=compact)](https://github.com/ArielBenvindo/github-readme-stats)
